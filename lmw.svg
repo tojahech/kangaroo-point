@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="lmw-new.svg">
+   sodipodi:docname="lmw.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57531421"
-     inkscape:cx="803.73091"
-     inkscape:cy="344.67435"
+     inkscape:zoom="0.41396502"
+     inkscape:cx="747.36032"
+     inkscape:cy="560.41287"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:object-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
      inkscape:window-x="-8"
@@ -40,7 +40,9 @@
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -14365,7 +14367,7 @@
     </g>
     <g
        id="g8280"
-       transform="translate(-472.61985,-824.3043)">
+       transform="translate(-472.25536,-823.84877)">
       <g
          transform="matrix(0.95496563,0,0,0.95486423,-310.07519,843.35238)"
          id="g6117-3"
@@ -28760,5 +28762,19 @@
        height="303.85391"
        x="75.057228"
        y="414.7897" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.92272728;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.057073;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5799"
+       width="5.4658256"
+       height="22.942926"
+       x="75.052849"
+       y="391.85114" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.92272728;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.057073;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5799-4"
+       width="918.31592"
+       height="22.942932"
+       x="-843.24945"
+       y="695.69037" />
   </g>
 </svg>
