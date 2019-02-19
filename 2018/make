@@ -6,11 +6,6 @@
 latexmk -pdf -pvc- -output-directory='output' tables.tex
 latexmk -c -output-directory='output' tables.tex
 
-# Render master image for web use
-
-inkscape -z -f master.svg -l output/entire-cliff.svg --export-area-page
-cp output/entire-cliff.svg docs/entire-cliff.svg
-
 # Convert Inkscape pages to PDF
 
 inkscape -z -f lmw.svg -A output/lmw.pdf --export-area-page

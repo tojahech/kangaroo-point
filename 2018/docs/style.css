@@ -4,29 +4,41 @@ html, body {
   background-color: #fafafa;
 }
 
-#header {
-  max-width: 600px;
-  margin: 0px auto;
-  margin-top: 80px;
-  text-align: center;
-}
-
-#image-container {
-  width: 100%;
-  overflow-x: scroll;
-}
-
-#about {
-  margin: 200px auto;
+#content {
+  margin: 100px auto;
+  padding: 0px 40px;
   max-width: 700px;
   text-align: center;
 }
 
-.snippet {
-  max-width: 80%;
-  margin: 0px auto;
-  display: block;
+#header-image {
+  height: 240px;
 }
+
+#header {
+  margin: 0px auto;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  border-bottom: 60px solid #333333;
+}
+
+#header-inner {
+  width: 100%;
+  text-align: center;
+}
+
+.header-text {
+  margin-top: 0px;
+}
+
+.snippet {
+  max-width: 90%;
+  max-height: 300px;
+  display: inline-block;
+}
+
 
 /* Fonts */
 
@@ -41,7 +53,7 @@ body {
 
 p, h3 {
   margin: 40px 0px;
-  line-height: 160%;
+    line-height: 160%;
 }
 
 h1 {
